@@ -1,0 +1,12 @@
+{
+  "id": "0x44c53A950ceB0eE7dEA6d2f46372CA4Ee17cc9C3",
+  "name": "KOTEGOT",
+  "symbol": "KTG",
+  "type": "BEP20",
+  "decimals": "7",
+  "website": "https://www.KOTEGOT.com",
+  "explorer": "https://www.bscscan.com",
+  "reflections": "true",
+  "social": {
+      "twitter" : "https://www.twitter.com/KOTEGOT/"
+   }
